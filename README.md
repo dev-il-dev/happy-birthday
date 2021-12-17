@@ -1,3 +1,7 @@
+
+
+FORK THIS REPO DIRECTLY AND CUSTOMISE THEJSON FILE(SIMPLY BY ADDING YOUR CUSTOM INFO TO MAKE A SUPER COOL WEBSITE FOR THEIR BIRTHDAY!!! 
+
 ## Happy Birthday!!!
 
 ### Wish someone special happy birthday in a special way.
@@ -25,9 +29,7 @@ Please note that I've created this page in a hurry and it comes with no warranty
 Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
 
 
-## Contributing
 
-I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
-If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
+if you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
 Happy wishing! 🎉
