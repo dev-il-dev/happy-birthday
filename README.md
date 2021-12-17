@@ -1,12 +1,12 @@
 
 
-FORK THIS REPO DIRECTLY AND CUSTOMISE THEJSON FILE(SIMPLY BY ADDING YOUR CUSTOM INFO TO MAKE A SUPER COOL WEBSITE FOR THEIR BIRTHDAY!!! 
+## FORK THIS REPO DIRECTLY AND CUSTOMISE THEJSON FILE(SIMPLY BY ADDING YOUR CUSTOM INFO TO MAKE A SUPER COOL WEBSITE FOR THEIR BIRTHDAY!!! 
 
 ## Happy Birthday!!!
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://faahim.github.io/happy-birthday/)
+thday/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
